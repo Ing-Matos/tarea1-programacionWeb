@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+}
+
+.head {
+    background-color: rgb(244, 188, 1);
+    background-size: cover;
+    height: 480px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.image1 {
+    width: 150px;
+    background-color: white;
+    border-radius: 50%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(254, 222, 0);
+    border-image: initial;
+}
+
+.name {
+    font-size: 100px;
+    color: white;
+    margin: 10px;
+}
+
+.informationName {
+    font-size: 30px;
+    color: black;
+}
+
+.imageInformation {
+    height: 600px;
+    float: left;
+    margin: 100px;
+}
+
+.Information {
+    height: 600px;
+    margin: 100px;
+}
+
+.informatinText {
+    line-height: 1.5;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.informationTextContact {
+    line-height: 0.5;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: rgb(244, 188, 1);
+    background-size: cover;
+    height: auto;
+    padding-top: 40px;
+    text-align: center;
+}
